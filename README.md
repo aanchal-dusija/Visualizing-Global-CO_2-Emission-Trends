@@ -1,12 +1,5 @@
 # Visualizing Global CO_2 Emission Trends
 
-
-### ANLY-503-01, Team 18
-* Xiaojing Ni xn19@georgetown.edu
-* Conrado Arroyo ca829@georgetown.edu
-* Yu Tao yt560@georgetown.edu
-* Aanchal Dusija akd73@georgetown.edu
-
 ## Executive summary
 
 Greenhouse gases are gases in the earth's atmosphere that trap heat. They emitted by human activities strengthen the greenhouse effect, contributing to climate change (U.S.Environmental Protection Agency). Carbon dioxide (CO2) is the primary greenhouse gas emitted through human activities. Our group applied several exploratory data analysis and visualization techniques on data sets related to GDP, global tonnes of CO2 emissions (tCO2) / Greenhouse Gas emissions (GHG), forest coverage, and energy use, both globally and by country. 
