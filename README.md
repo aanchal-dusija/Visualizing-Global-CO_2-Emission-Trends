@@ -1,20 +1,11 @@
-# Visualizing Global CO_2 Emission Trends
+# Visualizing Global CO2 Emission Trends
 
-## Executive summary
+## Executive summary:
 
 Greenhouse gases are gases in the earth's atmosphere that trap heat. They emitted by human activities strengthen the greenhouse effect, contributing to climate change (U.S.Environmental Protection Agency). Carbon dioxide (CO2) is the primary greenhouse gas emitted through human activities. Our group applied several exploratory data analysis and visualization techniques on data sets related to GDP, global tonnes of CO2 emissions (tCO2) / Greenhouse Gas emissions (GHG), forest coverage, and energy use, both globally and by country. 
 
 In this project, we developed new insights about the relationships between CO2 emission trends and other topics such as forest cover, GDP, and energy use, as well as to better understand their behavior over time through the use of advanced data visualization techniques. 
 
-## Repository structure
-
-```.
-├── README.md
-├── code/
-├── data/
-├── img/
-├── webstie/
-```
 
 ## Description of files
 
